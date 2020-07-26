@@ -5,6 +5,7 @@
     width: 400px;
     margin: auto;
     box-shadow: 2px 2px 8px black;
+    padding-bottom: 10px;
   }
   
   form {
@@ -141,3 +142,8 @@
     text-shadow: 2px 2px 5px black;
   }
   
+  small {
+    font-family: "Nunito";
+    text-align: center;
+    margin: 450px;
+  }
