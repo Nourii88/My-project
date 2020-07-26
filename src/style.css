@@ -1,5 +1,5 @@
 .weatherApp {
-    background-image: url("public/field.png");
+    background-image: url(img/field.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     width: 400px;
